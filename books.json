@@ -1,0 +1,62 @@
+[
+    {
+        "title": "The Great Adventure",
+        "author": "William Shakespeare",
+        "metadata": {
+            "price": 1500,
+            "categories": ["fantasy", "sci-fi"],
+            "isbn": "1234567890123",
+            "pages": 283
+        }
+    },
+    {
+        "title": "Mysteries of the Cosmos",
+        "author": "Carl Sagan",
+        "metadata": {
+            "price": 1800,
+            "categories": ["science", "non-fiction"],
+            "isbn": "9781234567890",
+            "pages": 320
+        }
+    },
+    {
+        "title": "Journey to the Unknown",
+        "author": "Jules Verne",
+        "metadata": {
+            "price": 2000,
+            "categories": ["adventure", "sci-fi"],
+            "isbn": "9789876543210",
+            "pages": 450
+        }
+    },
+    {
+        "title": "The Enchanted Forest",
+        "author": "J.K. Rowling",
+        "metadata": {
+            "price": 1200,
+            "categories": ["fantasy", "children"],
+            "isbn": "9781122334455",
+            "pages": 310
+        }
+    },
+    {
+        "title": "Physics of the Impossible",
+        "author": "Michio Kaku",
+        "metadata": {
+            "price": 2200,
+            "categories": ["science", "non-fiction"],
+            "isbn": "9789988776655",
+            "pages": 400
+        }
+    },
+    {
+        "title": "Harry Potter",
+        "author": "J.K. Rowling",
+        "metadata": {
+            "price": 5000,
+            "categories": ["magic", "children"],
+            "isbn": "9781122331115",
+            "pages": 700
+        }
+    }
+]
